@@ -1,0 +1,12 @@
+{
+    "mysql": {
+        "banco-de-dados": "golab",
+        "usuario": "root",
+        "senha": "root",
+        "host": "localhost",
+        "port": "8889"
+    },
+    "api": {
+        "port": 3001
+    }
+}
